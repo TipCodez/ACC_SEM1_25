@@ -103,5 +103,4 @@ In future projects, I want to focus on:
 ## Author
 
 - Name - Punobyin Raphael Tibil
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Website - [Your Portfolio](https://your-portfolio-website.com)
