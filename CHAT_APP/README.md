@@ -25,7 +25,7 @@ This is a solution to the [Chat app CSS illustration challenge on Frontend Mento
 ### Links
 
 - Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/chat-app-css-illustration-using-html-and-css-with-flexbox-animations-xxXXxxXX)
-- Live Site URL: [Live Chat App Illustration](https://your-live-site-url.com)
+- Live Site URL: [Live Chat App Illustration](https://tipcodez.github.io/ACC_SEM1_25/)
 
 ## My process
 
